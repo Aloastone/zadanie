@@ -13,8 +13,10 @@ int x=4;
             // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("i = " + i);
             //HAIIII
+            //ppppppp mnoi juhiohju
             // ^^^
             //I LOVE KIDS
+            //pppp
         }
     }
 }
